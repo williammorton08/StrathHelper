@@ -5,7 +5,7 @@ So that if any errors occur or changes to timetabling happen you can simply dele
 
 # How to run:
 ## Build
-- clone the repo with `git clone https://github.com/strathclyde-coding-society/StrathHelper.git`
+- clone the repo with `git clone https://github.com/williammorton08/StrathHelper`
 - navigate to the project directory cd StrathHelper
 - run `npm install`
 - run `npx webpack`
@@ -21,7 +21,7 @@ This should now generate `dist` folder inside the StrathHelper directory.
 - Navigate to this repo's folder
 - Select the `dist` folder
 
-Strath helper should now be an extension on your browser, if you have any issues please contact us for support!
+StrathHelper should now be an extension on your browser, if you have any issues please contact me for support!
 
 # How to use:
 - Click the extension icon
@@ -30,3 +30,5 @@ Strath helper should now be an extension on your browser, if you have any issues
 - Choose Standard semster 2 teaching weeks for duration
 - Generate timetable
 - Open extension again
+- Install the ICS file
+- Done!
