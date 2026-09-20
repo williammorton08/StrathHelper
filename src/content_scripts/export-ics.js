@@ -254,21 +254,7 @@ let highlightState = false;
 document
     .querySelectorAll('.object-cell-border')
     .forEach(cell => {
-        if (
-            cell.children[0]
-                .children[1]
-                .children[0]
-                .children[1]
-                .innerText == "Lecture"
-        ) {
-            cell.classList.add(
-                'selected-cell'
-            );
-        } else {
-            cell.classList.add(
-                'unselected-cell'
-            );
-        }
+        cell.classList.add('selected-cell');
 
         const toggle = () => {
             cell.classList.toggle(
