@@ -1,5 +1,7 @@
 # StrathHelper
 A browser extension build by the Strathclyde Coding Society to help with timetables and deadlines.
+Taken over by William Morton before 2026/27.
+
 I would advise to make an individual Calendar within the app of your choosing just for StrathHelper.
 So that if any errors occur or changes to timetabling happen you can simply delete all entries at once.
 
